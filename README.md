@@ -10,7 +10,7 @@
 
 - [백엔드 설계 스펙](../docs/superpowers/specs/2026-09-10-goods-display-case-backend-design.md)
 - [iOS 앱 설계 스펙](../docs/superpowers/specs/2026-09-10-goods-display-case-app-design.md)
-- API 명세서: Notion ([API 기본 명세서 포맷](https://app.notion.com/p/1427491eeb20839291dc8109f907a6f5) 기반으로 작성)
+- API 명세서: Notion ((https://app.notion.com/p/API-3da7491eeb2081cb86c6d28a48886c59))
 
 ## 기술 스택
 
